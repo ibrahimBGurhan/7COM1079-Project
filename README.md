@@ -1,2 +1,6 @@
-# 7COM1079-Project
-This is a project for 7COM1079 Team Research and Development Project.
+# 7COM1079-group131 Repository
+
+## Members:
+
+* Salih Emre AKIN
+* Ibrahim Bilal Gurhan
